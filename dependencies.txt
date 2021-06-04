@@ -1,0 +1,8 @@
+frontend
+axios-api requrest
+moment-time n date
+react-file-base64-to convert images
+redux thunk-async req
+@material-ui/core-design
+
+

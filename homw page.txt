@@ -1,0 +1,8 @@
+***********HOME***********
+Navbar
+Slideshow
+brands
+testimonial
+timeline
+footer
+
